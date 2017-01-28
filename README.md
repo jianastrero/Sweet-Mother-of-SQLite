@@ -2,6 +2,7 @@
 The Sweetest way into saving and loading sqlite
 
 [![](https://jitpack.io/v/jianastrero/Sweet-Mother-of-SQLite.svg)](https://jitpack.io/#jianastrero/Sweet-Mother-of-SQLite)
+[![API](https://img.shields.io/badge/API-1%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=1)
 
 
 ##Installation
